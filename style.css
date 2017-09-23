@@ -1,0 +1,52 @@
+html {
+	text-align: center;
+	line-height: 1.5em;
+	padding: 0;
+	margin: 0;
+	background-color: black;
+	color: darkgrey;
+	font-family: "Courier New";
+}
+
+section {
+	margin: 5% 20%;
+	padding: 2%;
+	border: 2px solid darkgrey;
+}
+
+#navbar {
+	margin: 0% 20%;
+	list-style-type: none;
+	overflow: hidden;
+}
+
+#navbar li{
+	float: left;
+}
+
+#navbar li a {
+	font-size: 2em;
+	padding: 0px 20px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+ /* unvisited link */
+a:link {
+    color: grey;
+}
+
+/* visited link */
+a:visited {
+    color: grey;
+}
+
+/* mouse over link */
+a:hover {
+    color: blue;
+}
+
+/* selected link */
+a:active {
+    color: white;
+} 
