@@ -4,12 +4,12 @@ html {
 
 #console {
 	font-family: courier, monospace;
-	color: #fff;
+	color: white;
 	width: 80ch;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 100px;
-	font-size: 14px;
+	font-size: 0.8em;
 }
 
 a {
@@ -27,4 +27,12 @@ a {
 
 #b {
 	color: #ff0096;
+}
+
+/*Phone or very small window */
+@media only screen and (max-device-width : 940px), screen and (max-width : 700px) {
+	#console {
+		font-size: 2em;
+		width: 100%;
+	}
 }

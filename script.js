@@ -1,5 +1,5 @@
 let Typer={
-console: document.getElementById("console"),
+console: null,
 text: null,
 accessCountimer:null,
 index:0, // current cursor position
@@ -45,6 +45,7 @@ file:"", // file
 
 Typer.speed=3;
 Typer.file="tinusf.txt";
+Typer.console = document.getElementById("console");
 Typer.init();
  
 let timer = setInterval("t();", 30);
