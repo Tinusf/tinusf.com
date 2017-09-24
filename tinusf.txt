@@ -5,4 +5,4 @@ I like computers, programming and video games. If you would like to get in touch
 
 My email address is: <a href="mailto:info@tinusf.com">info@tinusf.com</a>. 
 
-If you would like to see other stuff I have created check out my github at <a href="https://github.com/Tinusf" target="_blank">https://github.com/Tinusf</a>.</p>
+If you would like to see other stuff I have created check out my github at <a href="https://github.com/tinusf" target="_blank">https://github.com/tinusf</a>.</p>
