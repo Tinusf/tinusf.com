@@ -1,2 +1,3 @@
 # tinusf.com
-tinusf.com website
+A linux terminal lookalike website
+[tinusf.com](https://www.tinusf.com)
