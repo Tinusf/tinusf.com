@@ -1,8 +1,23 @@
-<p><span id="a">tinusf@tinux</span>:<span id="b">~</span><span id="c">$</span> cat tinusf.txt<br>
-Hi, I'm Tinus.<!-- I use comments to create delays. --> I study Computer Science at Norwegian University of Science and Technology.<!-- If you are reading this, I would love a summer internship. -->
+<p>
+	<span id="a">tinusf@tinux</span>:<span id="b">~</span><span id="c">$</span> cat tinusf.txt
+</p>
 
-I like computers, programming and video games. If you would like to get in touch with me send me an email. <!-- hehe nobody is going to read this. --> 
+<p>
+	Hi, I'm Tinus Flagstad.<!-- I use comments to create delays. --> I study Computer Science at Norwegian University of Science and Technology.<!-- If you are reading this, I would love a summer internship. -->	
+</p>
 
-My email address is: <a href="mailto:info@tinusf.com">info@tinusf.com</a>. 
+<p>
+	I like computers, programming and video games. If you would like to get in touch with me send me an email. <!-- hehe nobody is going to read this. --> 	
+</p>
 
-If you would like to see other stuff I have created check out my github at <a href="https://github.com/tinusf" target="_blank">https://github.com/tinusf</a>.</p>
+<p>
+	My email address is: <a href="mailto:info@tinusf.com">info@tinusf.com</a>. 	
+</p>
+
+<p>
+	If you would like to see other stuff I have created check out my github at <a href="https://github.com/tinusf" target="_blank">https://github.com/tinusf</a>.
+</p>
+<p>
+	I also have a linkedin account at <a href="https://www.linkedin.com/in/tinus-flagstad-987b50140/" target="_blank">https://www.linkedin.com/in/tinus-flagstad-987b50140/</a>	
+</p>
+
